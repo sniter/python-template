@@ -1,0 +1,2 @@
+# Dependencies should be located in folder requirements/
+-r requirements/main.txt

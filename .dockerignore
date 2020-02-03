@@ -1,0 +1,5 @@
+venv/*
+Dockerfile
+.editorconfig
+.gitignore
+.pre-commit-config.yaml

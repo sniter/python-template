@@ -1,0 +1,8 @@
+# Dependencies for development
+jupyter
+
+# Linters and formatters
+black
+
+# Git integration
+pre-commit
