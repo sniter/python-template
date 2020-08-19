@@ -25,9 +25,9 @@
 * `readme.md` <br>
     This readme. Used [Markdown][2] syntax
 * `requirements.txt` <br>
-    Python PIP dependencies for *PROD* env
+    Python [PIP dependencies][7] for *PROD* env
 * `requirements-dev.txt` <br>
-    Python PIP dependencies for *DEV* env
+    Python [PIP dependencies][7] for *DEV* env
 
 * **TBD** build wheel
 
@@ -51,3 +51,4 @@ pre-commit install
 [4]: https://pre-commit.com/
 [5]: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 [6]: https://docs.docker.com/engine/reference/builder/#dockerignore-file
+[7]: https://pip.pypa.io/en/stable/reference/pip_install/#requirements-file-format

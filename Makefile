@@ -10,7 +10,7 @@ include envs/$(ENV).mk
 venv:
 	virtualenv -p `which python3` $(VENV)
 
-requirements:
+deps:
 	$(PIP) install -r $(DEPS)
 
 lint:
