@@ -1,0 +1,15 @@
+- .git/
+- .idea/
++ bin/
++ envs/
++ requirements/
+- venv/
++ Dockerfile
++ Makefile
++ .dockerignore
++ .editorconfig
++ .gitignore
++ readme.md
++ requirements.txt
++ requirements-dev.txt
++ .pre-commit-config.yaml
